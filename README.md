@@ -18,8 +18,12 @@ click that and you will be redirected to the next page that is 'page-2.html'
 
 at the end, there is a form which apparently doesn't work because of github limitation.
 
-
-Thank you.
-
 if you are visiting this github page using a phone, then you will see 'View code' above this README.md.
 click on it and then you can access the files freely.
+
+
+UPDATE 
+
+I have made some changes, and now there are some more pages.
+
+Thank you.
