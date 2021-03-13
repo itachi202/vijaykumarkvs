@@ -6,7 +6,7 @@ This website might not be the best, but I have already done my best.
 
 but next time, it will be a better one. 
 
-my website starts with the 'form.html', and it will accept any kind of details.
+my website starts with the 'index.html', and it will accept any kind of details.
 
 after that comes the 'school-project.html' which will open as soon as you click the submit button.
 
